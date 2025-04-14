@@ -97,7 +97,7 @@ h3 {
 
 .parallax {
 
-    background-image:  url("/contenido/parallaxInicio3.png");
+    background-image:  url("../contenido/parallaxInicio3.png");
     min-height: 400px;
     filter: grayscale(2);
     background-attachment: fixed;
