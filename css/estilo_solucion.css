@@ -123,6 +123,7 @@
     display: flex;
     justify-content: center;
     background-image:  url("../contenido/parallaxSoluciones.png");
+    background-color : blue;
     margin-top:10% ;
     min-height: 400px;
     filter: grayscale(2);
